@@ -1,6 +1,9 @@
 This is actually my second readme file
+
+
 ***Environment Changes***
-### Generated a Github token
+
+###### Generated a Github token ######
 Created 3 directories: js,c, and bash 
 Created files in these directories
 deleted one directory
