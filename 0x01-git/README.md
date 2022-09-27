@@ -10,4 +10,5 @@ deleted one directory
 Today coding has been fine. I really enjoyed.
 
 ***Code learnt***
+
 git push, git add ., git commit, I also used rm -rf, git checkout, git checkout -b
